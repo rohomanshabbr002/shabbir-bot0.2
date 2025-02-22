@@ -14,15 +14,15 @@
   },
   "repository": {
       "type": "git",
-      "url": "https://github.com/mr-nazrul-404/islamick-chat/git"
+      "url": "https://github.com/SHABBIR-HUSAIN/islamic-chat-bot.git"
   },
   
   "author": "md nazrul islam",
   "license": "GPL-3.0",
   "bugs": {
-      "url": "https://github.com/mr-nazrul-404/islamick-chat/issues"
+      "url": "https://github.com/SHABBIR-HUSAIN-munna/islamic-chat-bot-2.0.git"
   },
-  "homepage": "https://github.com/mr-nazrul-404/islamick-chat/issues",
+  "homepage": "https://github.com/SHABBIR-HUSAIN-munna/islamic-chat-bot-2.0.git",
   "dependencies": {
       "@distube/ytdl-core": "^4.13.2",
       "@miraipr0ject/assets": "^1.0.9",
