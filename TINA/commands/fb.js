@@ -8,7 +8,7 @@ module.exports.config = {
   usages: "fb video link",
   cooldowns: 2,
   dependencies: {
-        'nayan-media-downloader': '',
+        'shabbir-media-downloader': '',
   }
 },
 
@@ -16,12 +16,12 @@ module.exports.config = {
     "vi": {},
         "en": {
             "urlinvalid": 'Unsupported video platform. Please provide a valid Facebook, TikTok, Twitter, Instagram, or YouTube video link.',
-          "waitfb": '𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐢𝐧𝐠 𝐯𝐢𝐝𝐞𝐨 𝐅𝐨𝐫𝐦 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐏𝐥𝐞𝐚𝐬𝐞 𝐖𝐢𝐚𝐭......\n===== 𝐍𝐀𝐙𝐑𝐔𝐋 𝐁𝐎𝐓 =====',
-          "downfb": "𝐒𝐞𝐧𝐝𝐢𝐧𝐠 𝐘𝐨𝐮𝐫 𝐕𝐢𝐝𝐞𝐨\n===== 𝐍𝐀𝐙𝐑𝐔𝐋 𝐁𝐎𝐓 =====",
-          "waittik": '𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐢𝐧𝐠 𝐯𝐢𝐝𝐞𝐨 𝐅𝐨𝐫𝐦 𝐓𝐢𝐤𝐓𝐨𝐤 𝐏𝐥𝐞𝐚𝐬𝐞 𝐖𝐢𝐚𝐭......\n===== 𝐍𝐀𝐙𝐑𝐔𝐋 𝐁𝐎𝐓 =====',
-          "waitinsta": '𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐢𝐧𝐠 𝐯𝐢𝐝𝐞𝐨 𝐅𝐨𝐫𝐦 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 𝐏𝐥𝐞𝐚𝐬𝐞 𝐖𝐢𝐚𝐭......\n===== 𝐍𝐀𝐙𝐑𝐔𝐋 𝐁𝐎𝐓 =====',
-          "downinsta": '𝐒𝐞𝐧𝐝𝐢𝐧𝐠 𝐘𝐨𝐮𝐫 𝐕𝐢𝐝𝐞𝐨\n===== 𝐍𝐀𝐙𝐑𝐔𝐋 𝐁𝐎𝐓 =====',
-          "waityt": '𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐢𝐧𝐠 𝐯𝐢𝐝𝐞𝐨 𝐅𝐨𝐫𝐦 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐏𝐥𝐞𝐚𝐬𝐞 𝐖𝐢𝐚𝐭......\n===== 𝐍𝐀𝐙𝐑𝐔𝐋 𝐁𝐎𝐓 =====',
+          "waitfb": '𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐢𝐧𝐠 𝐯𝐢𝐝𝐞𝐨 𝐅𝐨𝐫𝐦 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐏𝐥𝐞𝐚𝐬𝐞 𝐖𝐢𝐚𝐭......\n===== 𝗦𝗛𝗔𝗕𝗕𝗜𝗥 𝐁𝐎𝐓 =====',
+          "downfb": "𝐒𝐞𝐧𝐝𝐢𝐧𝐠 𝐘𝐨𝐮𝐫 𝐕𝐢𝐝𝐞𝐨\n===== 𝗦𝗛𝗔𝗕𝗕𝗜𝗥 𝐁𝐎𝐓 =====",
+          "waittik": '𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐢𝐧𝐠 𝐯𝐢𝐝𝐞𝐨 𝐅𝐨𝐫𝐦 𝐓𝐢𝐤𝐓𝐨𝐤 𝐏𝐥𝐞𝐚𝐬𝐞 𝐖𝐢𝐚𝐭......\n===== 𝗦𝗛𝗔𝗕𝗕𝗜𝗥 𝐁𝐎𝐓 =====',
+          "waitinsta": '𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐢𝐧𝐠 𝐯𝐢𝐝𝐞𝐨 𝐅𝐨𝐫𝐦 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 𝐏𝐥𝐞𝐚𝐬𝐞 𝐖𝐢𝐚𝐭......\n===== 𝗦𝗛𝗔𝗕𝗕𝗜𝗥 𝐁𝐎𝐓 =====',
+          "downinsta": '𝐒𝐞𝐧𝐝𝐢𝐧𝐠 𝐘𝐨𝐮𝐫 𝐕𝐢𝐝𝐞𝐨\n===== 𝗦𝗛𝗔𝗕𝗕𝗜𝗥 𝐁𝐎𝐓 =====',
+          "waityt": '𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐢𝐧𝐠 𝐯𝐢𝐝𝐞𝐨 𝐅𝐨𝐫𝐦 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐏𝐥𝐞𝐚𝐬𝐞 𝐖𝐢𝐚𝐭......\n===== 𝗦𝗛𝗔𝗕𝗕𝗜𝗥 𝐁𝐎𝐓 =====',
           "waittw": 'Downloading Twitter video. Please wait...',
           "downtw": 'Twitter video download success',
           "error": '❌Error'
@@ -32,7 +32,7 @@ start: async function ({ nayan, events, args, lang }) {
   const axios = require("axios");
   const fs = require("fs-extra");
   const content = args.join(" ");
-  const { ytdown, ndown, tikdown, twitterdown } = require("nayan-media-downloader")
+  const { ytdown, ndown, tikdown, twitterdown } = require("shabbir-media-downloader")
   let msg = "";
 
   const sendWaitingMessage = async (message) => {
